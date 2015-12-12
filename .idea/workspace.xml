@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a061e3fd-e85b-4a04-b8a8-824360eb70da" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day3.js" afterPath="$PROJECT_DIR$/day3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="adventofcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,21 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="day3.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day3.js">
+      <file leaf-file-name="day5.in" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day5.in">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8489066">
-              <caret line="47" column="58" selection-start-line="47" selection-start-column="58" selection-end-line="47" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="day3.in" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day3.in">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="8192" selection-start-line="0" selection-start-column="8192" selection-end-line="0" selection-end-column="8192" />
+            <state vertical-scroll-proportion="18.867794">
+              <caret line="999" column="16" selection-start-line="999" selection-start-column="16" selection-end-line="999" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -73,6 +61,10 @@
         <option value="$PROJECT_DIR$/day2.js" />
         <option value="$PROJECT_DIR$/day3.in" />
         <option value="$PROJECT_DIR$/day3.js" />
+        <option value="$PROJECT_DIR$/node_modules/day4.js" />
+        <option value="$PROJECT_DIR$/day4.in" />
+        <option value="$PROJECT_DIR$/day4.js" />
+        <option value="$PROJECT_DIR$/day5.in" />
       </list>
     </option>
   </component>
@@ -634,12 +626,12 @@
       <option name="number" value="Default" />
       <updated>1449874741818</updated>
       <workItem from="1449874743626" duration="3685000" />
-      <workItem from="1449913376846" duration="2623000" />
+      <workItem from="1449913376846" duration="3838000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6308000" />
+    <option name="totallyTimeSpent" value="7523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="0" width="1920" height="1080" extended-state="0" />
@@ -738,10 +730,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/day4.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/day3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8489066">
-          <caret line="47" column="58" selection-start-line="47" selection-start-column="58" selection-end-line="47" selection-end-column="58" />
+        <state vertical-scroll-proportion="0.22564612">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day5.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="18.867794">
+          <caret line="999" column="16" selection-start-line="999" selection-start-column="16" selection-end-line="999" selection-end-column="16" />
           <folding />
         </state>
       </provider>
